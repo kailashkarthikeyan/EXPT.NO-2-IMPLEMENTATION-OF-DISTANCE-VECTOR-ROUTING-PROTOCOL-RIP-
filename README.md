@@ -81,7 +81,8 @@ You can also check connectivity between the PCs on different networks to ensure 
  
 # OUTPUT
 ![WhatsApp Image 2025-11-19 at 10 06 55 AM](https://github.com/user-attachments/assets/f72bdaec-f710-4ff4-a5ce-e9696b885ee4)
-![WhatsApp Image 2025-11-19 at 10 06 55 AM](https://github.com/user-attachments/assets/2cec6575-9554-4b68-b5fb-03a1a39a3651)
+
+![WhatsApp Image 2025-11-19 at 10 06 55 AM (2)](https://github.com/user-attachments/assets/b7af3e76-4b8f-4b0a-8b7c-3b3cafe6a239)
 
 
 
