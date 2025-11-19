@@ -4,13 +4,14 @@
 To connect computers in multiple networks using Distance Vector Routing Protocol and to verify the connectivity between computers.
 # EQUIPMENTS REQUIRED:
 
-
+<img width="987" height="271" alt="image" src="https://github.com/user-attachments/assets/1ee6a726-619c-4b29-8645-3b76fb02a653" />
 
 # IP ASSIGNMENT:
 
-
+<img width="1022" height="493" alt="image" src="https://github.com/user-attachments/assets/c5e77b65-b792-450f-a365-be7b76180067" />
 
 # NETWORK DIAGRAM:
+![WhatsApp Image 2025-11-19 at 10 06 56 AM (2)](https://github.com/user-attachments/assets/be52b02a-11e5-46d2-a6d5-6890d3bea5c4)
 # PROCEDURE:
 
 STEP 1: Open a Packet Tracer Software.
@@ -79,6 +80,9 @@ You can also check connectivity between the PCs on different networks to ensure 
 •	Similarly, you can ping between other PCs (e.g., from PC2 to PC5) to verify network connective
  
 # OUTPUT
+![WhatsApp Image 2025-11-19 at 10 06 55 AM](https://github.com/user-attachments/assets/f72bdaec-f710-4ff4-a5ce-e9696b885ee4)
+![WhatsApp Image 2025-11-19 at 10 06 55 AM](https://github.com/user-attachments/assets/2cec6575-9554-4b68-b5fb-03a1a39a3651)
+
 
 
 
