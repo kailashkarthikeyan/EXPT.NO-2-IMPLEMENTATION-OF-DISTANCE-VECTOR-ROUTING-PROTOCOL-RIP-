@@ -85,8 +85,8 @@ You can also check connectivity between the PCs on different networks to ensure 
 ![WhatsApp Image 2025-11-19 at 10 06 55 AM (2)](https://github.com/user-attachments/assets/b7af3e76-4b8f-4b0a-8b7c-3b3cafe6a239)
 
 
-
+<img width="576" height="365" alt="image" src="https://github.com/user-attachments/assets/f4245c26-a2f8-4621-b317-0a2c8049f764" />
 
 # RESULT:
 
-Thus the computers in multiple networks using Distance Vector Routing <img width="576" height="365" alt="image" src="https://github.com/user-attachments/assets/f4245c26-a2f8-4621-b317-0a2c8049f764" />
+Thus the computers in multiple networks using Distance Vector Routing 
